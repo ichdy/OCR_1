@@ -1,1 +1,3 @@
-# OCR_1
+"Kumpulan data menyediakan data terstruktur dalam format XML dan mengharuskan penggunanya untuk mengekstrak berbagai entitas. Kumpulan data terdiri dari file XML dan gambar. File XML berisi data yang diekstraksi dari gambar faktur, nama teks dan file XML tetap sama untuk kejelasan. Pengguna kumpulan data harus mengekstrak entitas seperti no invoice, data invoice, nama perusahaan (faktur dari perusahaan1 ke perusahaan2/orang), nomor telepon perusahaan, alamat, dll.
+Tantangan:
+Data faktur berisi data tabular, yang sulit untuk ditangani. Merancang metodologi untuk mengekstrak informasi dari data tabular. Karena alasan yang jelas, angka tertentu dalam XML salah misalnya, '0' diganti dengan 'O'."
